@@ -8,4 +8,4 @@ This is a drop-in replacement of /usr/bin/mytop tested on on Ubuntu 12.04 3.5.0-
 
 To replicate the changes contained here other distros, install mytop, then run:
 
-    perl -pi -e 's/Questions/Queries/g /usr/bin/mytop
+    perl -pi -e 's/Questions/Queries/g' /usr/bin/mytop
