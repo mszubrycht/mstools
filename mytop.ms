@@ -1477,7 +1477,7 @@ Help for mytop version $main::VERSION by Jeremy D. Zawodny <${YELLOW}Jeremy\@Zaw
   : - enter a command (not yet implemented)
 
 modified by matts\@lampscaled.net to account for changes between
-Questions and Queries in MySQL > 5.0
+Questions and Queries in certain versions of MySQL >= 5.0.71
 
 ${GREEN}http://jeremy.zawodny.com/mysql/mytop/${RESET}
 ];
